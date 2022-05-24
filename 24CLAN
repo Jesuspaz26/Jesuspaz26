@@ -26,7 +26,7 @@
   ],
   "Servers": [
     {
-      "Name": "CONECTA4G | PLUS",
+      "Name": "HAYBAN4G | PLUS",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "dns.hayvps.online",
